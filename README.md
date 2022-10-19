@@ -1,1 +1,1 @@
-# GitTraining_v3
+This is only for educational purpose .
